@@ -4,10 +4,3 @@ local.properties
 gen
 .gradle
 build
-.DS_Store
-gradle
-gradlew
-gradlew.bat
-
-ion.iml
-*.iml
